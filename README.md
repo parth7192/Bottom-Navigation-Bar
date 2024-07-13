@@ -4,15 +4,12 @@
 # Icon_Selection
 
 #1. Home:
-
     - A house or home symbol typically represents the main dashboard or starting point of the application.
 
 #2. Notifications:
-
     - A bell icon is commonly used to indicate notifications or alerts.
 
 #3. Messages:
-
     - A speech bubble or envelope icon denotes messages or direct communication.
 
 <img src = "https://github.com/user-attachments/assets/b34a8a66-14be-467a-9ea5-a424d6294fa5" width = "250">
