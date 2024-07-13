@@ -1,22 +1,15 @@
 # bottom_navigation
 
-Icon Selection
-Home
+# Icon_Selection
 
-Icon: A house or home symbol typically represents the main dashboard or starting point of the application.
-Example: 
-Notifications
+#1. Home:
+    - A house or home symbol typically represents the main dashboard or starting point of the application.
 
-Icon: A bell icon is commonly used to indicate notifications or alerts.
-Example: 
-Messages
+#2. Notifications:
+    - A bell icon is commonly used to indicate notifications or alerts.
 
-Icon: A speech bubble or envelope icon denotes messages or direct communication.
-Example: 
-Design Considerations
-Color Scheme: Maintain a consistent color scheme across all icons to ensure visual harmony and clarity.
-Active State: When a tab is active, ensure the icon changes color or is highlighted to indicate the current section.
-Text Labels: Optionally, you can include text labels beneath each icon to explicitly state each section's purpose (e.g., "Home", "Notifications", "Messages").
+#3. Messages:
+    - A speech bubble or envelope icon denotes messages or direct communication.
 
 <img src = "https://github.com/user-attachments/assets/b34a8a66-14be-467a-9ea5-a424d6294fa5" width = "250">
 
