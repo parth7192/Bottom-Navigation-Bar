@@ -1,4 +1,5 @@
-# bottom_navigation
+# bottom_navigation_Bar
+👉: A bottom navigation bar is a user interface element typically found in mobile apps or websites, situated at the bottom of the screen. It serves as a primary navigation method, allowing users to easily switch between different sections or views within the app. Here are some key characteristics and considerations for designing a bottom navigation bar:
 
 # Icon_Selection
 
