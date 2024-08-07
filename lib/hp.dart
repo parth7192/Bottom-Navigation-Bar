@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// Flutter code sample for [NavigationBar].
-
 void main() => runApp(const NavigationBarApp());
 
 class NavigationBarApp extends StatelessWidget {
@@ -75,7 +73,6 @@ class _NavigationExampleState extends State<NavigationExample> {
           ),
         ),
 
-        /// Notifications page
         const Padding(
           padding: EdgeInsets.all(8.0),
           child: Column(
@@ -98,7 +95,6 @@ class _NavigationExampleState extends State<NavigationExample> {
           ),
         ),
 
-        /// Messages page
         ListView.builder(
           reverse: true,
           itemCount: 2,
